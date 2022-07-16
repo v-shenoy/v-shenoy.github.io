@@ -5,14 +5,18 @@
     <link>https://v-shenoy.github.io/posts/</link>
     <description>Recent content in Posts on Vighnesh Shenoy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 29 Apr 2022 05:09:00 +0530</lastBuildDate><atom:link href="https://v-shenoy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 18:09:50 +0530</lastBuildDate><atom:link href="https://v-shenoy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello, World!</title>
+      <title>Hello, world!</title>
       <link>https://v-shenoy.github.io/posts/hello-world/</link>
-      <pubDate>Fri, 29 Apr 2022 05:09:00 +0530</pubDate>
+      <pubDate>Sat, 16 Jul 2022 18:09:50 +0530</pubDate>
       
       <guid>https://v-shenoy.github.io/posts/hello-world/</guid>
-      <description>Just could not resist having that as the title. Anyway, here&amp;rsquo;s to the start of my blog, which I can hopefully keep active.</description>
+      <description>Just could not resist having that as the title for my first post.
+I&amp;rsquo;ve lost count of the number of times I&amp;rsquo;ve started a blog, only for me to abandon it later. Well, somebody smart did once say &amp;ndash;
+Insanity is doing the same thing over and over again and expecting different results.
+&amp;ndash; Albert Einstein
+Hopefully things are different this time around (fingers crossed). So, what am I going to write about?</description>
     </item>
     
   </channel>
