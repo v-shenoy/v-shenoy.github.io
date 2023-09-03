@@ -1,0 +1,22 @@
+:root { 
+    /* --maincolor: #bd93f9 !important; */
+    --bordercl: #bd93f9 !important;
+    /* --callouctcolor: dodgerblue !important; */
+    /* --hovercolor: #bd93f9 !important; */
+    /* --darkMaincolor: #bd93f9 !important; */
+}
+
+blockquote {
+    border-left: 3px solid white;
+}
+
+::selection {
+    background-color: rgba(203, 141, 231, 0.25);
+    color: rgb(255, 255, 255);
+}
+
+code {
+    color: rgb(240, 240, 158);
+    background-color: rgb(66, 54, 54);
+    border-radius: 5px;
+}
