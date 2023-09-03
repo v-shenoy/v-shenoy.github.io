@@ -1,0 +1,60 @@
+# General Hugo Config
+baseURL = "https://v-shenoy.com/"
+theme = "archie"
+title = "Vighnesh Shenoy"
+copyright = "© Vighnesh Shenoy"
+languageCode = "en-us"
+enableEmoji = true
+summaryLength = 50
+enableGitInfo = true
+
+[menu]
+	[[menu.main]]
+	identifier = "about"
+	name = "About"
+	url = "/about/"
+	weight = 1
+
+	[[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	url = "/posts/"
+	weight = 2
+
+	[[menu.main]]
+	identifier = "tags"
+	name = "Tags"
+	url = "/tags/"
+	weight = 3
+
+# Archie Theme Config
+[params]
+	mode = "toggle"
+	useCDN = true
+	subtitle = "An outlet for my thoughts"
+	favicon = "https://github.com/v-shenoy.png"
+
+	[[params.social]]
+	name = "RSS"
+	icon = "rss"
+	url = "/index.xml"
+
+	[[params.social]]
+	name = "E-mail"
+	icon = "mail"
+	url = "mailto:vighneshq@gmail.com"
+
+	[[params.social]]
+	name = "GitHub"
+	icon = "github"
+	url = "https://github.com/v-shenoy"
+
+	[[params.social]]
+	name = "LinkedIn"
+	icon = "linkedin"
+	url = "https://www.linkedin.com/in/v-shenoy"
+
+	[[params.social]]
+	name = "Twitter"
+	icon = "twitter"
+	url = "https://twitter.com/bitsinadatabase"
