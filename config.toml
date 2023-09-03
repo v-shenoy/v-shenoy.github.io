@@ -1,38 +1,45 @@
 # General Hugo Config
 baseURL = "https://v-shenoy.com/"
 theme = "archie"
-title = "Vighnesh Shenoy"
+title = "/home/v-shenoy"
 copyright = "© Vighnesh Shenoy"
 languageCode = "en-us"
 enableEmoji = true
 summaryLength = 50
 enableGitInfo = true
+cleanDestinationDir = true
 
 [menu]
 	[[menu.main]]
 	identifier = "about"
-	name = "About"
+	name = "about"
 	url = "/about/"
 	weight = 1
 
 	[[menu.main]]
 	identifier = "posts"
-	name = "Posts"
+	name = "posts"
 	url = "/posts/"
 	weight = 2
 
 	[[menu.main]]
 	identifier = "tags"
-	name = "Tags"
+	name = "tags"
 	url = "/tags/"
 	weight = 3
 
+## Markup Configuration
+[markup]
+	[markup.highlight]
+		style = "dracula"
+
 # Archie Theme Config
 [params]
-	mode = "toggle"
+	mode = "dark"
 	useCDN = true
-	subtitle = "An outlet for my thoughts"
+	subtitle = "Welcome to my personal corner of the internet!"
 	favicon = "https://github.com/v-shenoy.png"
+	customcss = ["css/custom.css"]
 
 	[[params.social]]
 	name = "RSS"

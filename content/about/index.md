@@ -4,7 +4,7 @@ date: 2023-09-03T20:16:02+05:30
 draft: false
 ---
 
-### Hi there :wave:
+# Hi there :wave:
 
 I am Vighnesh Shenoy, and I am a developer from India. 
 
@@ -23,7 +23,7 @@ I am obsessed with cats and currently have a domestic short-hair named Neo (Inst
 
 Feel free to reach out to me if you have something interesting to talk about. My contact information is linked below.
 
-### Contact -
+# Contact -
 
 - **Email:** [vighneshq@gmail.com](mailto:vighneshq@gmail.com)
 - **GitHub:** [v-shenoy](https://github.com/v-shenoy)
