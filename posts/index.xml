@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vighnesh Shenoy</title>
+    <link>https://v-shenoy.com/posts/</link>
+    <description>Recent content in Posts on Vighnesh Shenoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Vighnesh Shenoy</copyright>
+    <lastBuildDate>Sun, 03 Sep 2023 20:35:53 +0530</lastBuildDate><atom:link href="https://v-shenoy.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://v-shenoy.com/posts/hello-world/</link>
+      <pubDate>Sun, 03 Sep 2023 20:35:53 +0530</pubDate>
+      
+      <guid>https://v-shenoy.com/posts/hello-world/</guid>
+      <description>I have lost count of the number of times I have started a blog, only for me to give up on it later. And yet, here I am, trying once again.
+Well, somebody smart did once say —
+The definition of insanity is doing the same thing over and over again, but expecting different results.</description>
+    </item>
+    
+  </channel>
+</rss>

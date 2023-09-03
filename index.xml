@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vighnesh Shenoy</title>
+    <link>https://v-shenoy.com/</link>
+    <description>Recent content on Vighnesh Shenoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Vighnesh Shenoy</copyright>
+    <lastBuildDate>Sun, 03 Sep 2023 20:35:53 +0530</lastBuildDate><atom:link href="https://v-shenoy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://v-shenoy.com/posts/hello-world/</link>
+      <pubDate>Sun, 03 Sep 2023 20:35:53 +0530</pubDate>
+      
+      <guid>https://v-shenoy.com/posts/hello-world/</guid>
+      <description>I have lost count of the number of times I have started a blog, only for me to give up on it later. And yet, here I am, trying once again.
+Well, somebody smart did once say —
+The definition of insanity is doing the same thing over and over again, but expecting different results.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://v-shenoy.com/about/</link>
+      <pubDate>Sun, 03 Sep 2023 20:16:02 +0530</pubDate>
+      
+      <guid>https://v-shenoy.com/about/</guid>
+      <description>Hi there 👋 I am Vighnesh Shenoy, and I am a developer from India.
+I graduated with a double major in Computer Science &amp;amp; Mathematics from BITS Pilani, Hyderabad Campus in July, 2021. And I am currently working as a software engineer at Microsoft.
+I used to read a lot of books before college, but I somehow lost the habit.</description>
+    </item>
+    
+  </channel>
+</rss>
