@@ -1,7 +1,7 @@
 # General Hugo Config
 baseURL = "https://v-shenoy.com/"
 theme = "archie"
-title = "/home/v-shenoy"
+title = "Vighnesh Shenoy"
 copyright = "© Vighnesh Shenoy"
 languageCode = "en-us"
 enableEmoji = true
@@ -28,10 +28,20 @@ cleanDestinationDir = true
 	url = "/tags/"
 	weight = 3
 
+	[[menu.main]]
+	identifier = "cv"
+	name = "cv"
+	url = "/cv.pdf"
+	weight = 4
+
+
 ## Markup Configuration
 [markup]
 	[markup.highlight]
 		style = "dracula"
+
+	[markup.goldmark.renderer]
+		unsafe= true
 
 # Archie Theme Config
 [params]
@@ -60,8 +70,3 @@ cleanDestinationDir = true
 	name = "LinkedIn"
 	icon = "linkedin"
 	url = "https://www.linkedin.com/in/v-shenoy"
-
-	[[params.social]]
-	name = "Twitter"
-	icon = "twitter"
-	url = "https://twitter.com/bitsinadatabase"
