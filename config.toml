@@ -1,5 +1,5 @@
 # General Hugo Config
-baseURL = "https://v-shenoy.com/"
+baseURL = "https://v-shenoy.in/"
 theme = "archie"
 title = "Vighnesh Shenoy"
 copyright = "© Vighnesh Shenoy"
