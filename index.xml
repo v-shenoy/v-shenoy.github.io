@@ -14,14 +14,14 @@
       <link>https://v-shenoy.com/posts/hello-world/</link>
       <pubDate>Sun, 03 Sep 2023 20:35:53 +0530</pubDate>
       <guid>https://v-shenoy.com/posts/hello-world/</guid>
-      <description>Firstly, apologies for the cliched title. I just couldn&amp;rsquo;t resist &amp;#x1f63a;.&#xA;I have lost count of the number of times I have started a blog, only for me to give up on it later. And yet, here I am, trying once again. Well, somebody smart did once say —&#xA;&amp;ldquo;The definition of insanity is doing the same thing over and over again, but expecting different results.</description>
+      <description>&lt;p&gt;Firstly, apologies for the cliched title. I just couldn&amp;rsquo;t resist &amp;#x1f63a;.&lt;/p&gt;&#xA;&lt;p&gt;I have lost count of the number of times I have started a blog, only for me to give up on it later. And yet, here I am, trying once again.&#xA;Well, &lt;a href=&#34;https://en.wikipedia.org/wiki/Albert_Einstein&#34;&gt;somebody&lt;/a&gt; smart did once say —&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The definition of insanity is doing the same thing over and over again, but expecting different results.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
       <link>https://v-shenoy.com/about/</link>
       <pubDate>Sun, 03 Sep 2023 20:16:02 +0530</pubDate>
       <guid>https://v-shenoy.com/about/</guid>
-      <description>Hi there &amp;#x1f44b; I am Vighnesh Shenoy, and I am a software developer from India.&#xA;I graduated with a double major in Computer Science &amp;amp; Mathematics from BITS Pilani, Hyderabad Campus in July, 2021. And I am currently working as a software engineer at Microsoft.&#xA;Unsolicited trivia about me - I like reading technical blogs, discovering new &amp;amp; interesting open-source projects, occassionally listening to podcasts and quizzing.</description>
+      <description>&lt;h1 id=&#34;hi-there-wave&#34;&gt;Hi there &amp;#x1f44b;&lt;/h1&gt;&#xA;&lt;p&gt;I am Vighnesh Shenoy, and I am a software developer from India.&lt;/p&gt;&#xA;&lt;img src=&#34;https://v-shenoy.com/about.jpg&#34; alt=&#34;desk selfie&#34; width=&#34;350px&#34;/&gt;&#xA;&lt;p&gt;I graduated with a double major in Computer Science &amp;amp; Mathematics from BITS Pilani, Hyderabad Campus in July, 2021. And I am currently&#xA;working as a software engineer at Microsoft.&lt;/p&gt;&#xA;&lt;h2 id=&#34;unsolicited-trivia-about-me--&#34;&gt;Unsolicited trivia about me -&lt;/h2&gt;&#xA;&lt;p&gt;I like reading technical blogs, discovering new &amp;amp; interesting open-source projects, occassionally listening to podcasts and quizzing. In that vein,&#xA;this website is an attempt to write about things I find interesting (not necessarily technical).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
