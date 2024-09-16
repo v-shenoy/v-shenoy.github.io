@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Vighnesh Shenoy</title>
-    <link>https://v-shenoy.com/posts/</link>
+    <link>https://v-shenoy.in/posts/</link>
     <description>Recent content in Posts on Vighnesh Shenoy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vighnesh Shenoy</copyright>
     <lastBuildDate>Mon, 16 Sep 2024 14:42:12 +0530</lastBuildDate>
-    <atom:link href="https://v-shenoy.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://v-shenoy.in/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World!</title>
-      <link>https://v-shenoy.com/posts/hello-world/</link>
+      <link>https://v-shenoy.in/posts/hello-world/</link>
       <pubDate>Sun, 03 Sep 2023 20:35:53 +0530</pubDate>
-      <guid>https://v-shenoy.com/posts/hello-world/</guid>
+      <guid>https://v-shenoy.in/posts/hello-world/</guid>
       <description>&lt;p&gt;Firstly, apologies for the cliched title. I just couldn&amp;rsquo;t resist &amp;#x1f63a;.&lt;/p&gt;&#xA;&lt;p&gt;I have lost count of the number of times I have started a blog, only for me to give up on it later. And yet, here I am, trying once again.&#xA;Well, &lt;a href=&#34;https://en.wikipedia.org/wiki/Albert_Einstein&#34;&gt;somebody&lt;/a&gt; smart did once say —&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The definition of insanity is doing the same thing over and over again, but expecting different results.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
