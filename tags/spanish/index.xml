@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Vighnesh Shenoy</title>
-    <link>https://v-shenoy.in/posts/</link>
-    <description>Recent content in Posts on Vighnesh Shenoy</description>
+    <title>Spanish on Vighnesh Shenoy</title>
+    <link>https://v-shenoy.in/tags/spanish/</link>
+    <description>Recent content in Spanish on Vighnesh Shenoy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vighnesh Shenoy</copyright>
     <lastBuildDate>Sat, 19 Jul 2025 18:57:09 +0530</lastBuildDate>
-    <atom:link href="https://v-shenoy.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://v-shenoy.in/tags/spanish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Spanish Journey - Part 1</title>
       <link>https://v-shenoy.in/posts/my-spanish-journey-part1/</link>
       <pubDate>Sat, 19 Jul 2025 17:14:01 +0530</pubDate>
       <guid>https://v-shenoy.in/posts/my-spanish-journey-part1/</guid>
       <description>&lt;p&gt;For a while now, I have been wanting to learn a foreign language. However, I never actually dedicated any time to it. So finally, this year, I decided take it seriously and began learning Spanish.&lt;/p&gt;&#xA;&lt;p&gt;Why choose Spanish of all the languages in the world, you ask? Partly because it is English-adjacent, making it much easier to learn compared to a language such as Japanese or Mandarin, which have their own writing systems. And partly because it is also one of the most spoken languages in the world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello, World!</title>
-      <link>https://v-shenoy.in/posts/hello-world/</link>
-      <pubDate>Sun, 03 Sep 2023 20:35:53 +0530</pubDate>
-      <guid>https://v-shenoy.in/posts/hello-world/</guid>
-      <description>&lt;p&gt;Firstly, apologies for the cliched title. I just couldn&amp;rsquo;t resist &amp;#x1f63a;.&lt;/p&gt;&#xA;&lt;p&gt;I have lost count of the number of times I have started a blog, only for me to give up on it later. And yet, here I am, trying once again.&#xA;Well, &lt;a href=&#34;https://en.wikipedia.org/wiki/Albert_Einstein&#34;&gt;somebody&lt;/a&gt; smart did once say —&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The definition of insanity is doing the same thing over and over again, but expecting different results.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

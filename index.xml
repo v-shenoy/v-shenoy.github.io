@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Vighnesh Shenoy</copyright>
-    <lastBuildDate>Tue, 22 Apr 2025 18:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 18:57:09 +0530</lastBuildDate>
     <atom:link href="https://v-shenoy.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Spanish Journey - Part 1</title>
+      <link>https://v-shenoy.in/posts/my-spanish-journey-part1/</link>
+      <pubDate>Sat, 19 Jul 2025 17:14:01 +0530</pubDate>
+      <guid>https://v-shenoy.in/posts/my-spanish-journey-part1/</guid>
+      <description>&lt;p&gt;For a while now, I have been wanting to learn a foreign language. However, I never actually dedicated any time to it. So finally, this year, I decided take it seriously and began learning Spanish.&lt;/p&gt;&#xA;&lt;p&gt;Why choose Spanish of all the languages in the world, you ask? Partly because it is English-adjacent, making it much easier to learn compared to a language such as Japanese or Mandarin, which have their own writing systems. And partly because it is also one of the most spoken languages in the world.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello, World!</title>
       <link>https://v-shenoy.in/posts/hello-world/</link>
@@ -21,7 +28,7 @@
       <link>https://v-shenoy.in/about/</link>
       <pubDate>Sun, 03 Sep 2023 20:16:02 +0530</pubDate>
       <guid>https://v-shenoy.in/about/</guid>
-      <description>&lt;h1 id=&#34;hi-there-wave&#34;&gt;Hi there &amp;#x1f44b;&lt;/h1&gt;&#xA;&lt;p&gt;I am Vighnesh Shenoy, and I am a software developer from India.&lt;/p&gt;&#xA;&lt;img src=&#34;https://v-shenoy.in/about.jpg&#34; alt=&#34;desk selfie&#34; width=&#34;350px&#34;/&gt;&#xA;&lt;p&gt;I graduated with a double major in Computer Science &amp;amp; Mathematics from BITS Pilani, Hyderabad Campus in July, 2021. And I am currently&#xA;working as a software engineer at Microsoft.&lt;/p&gt;&#xA;&lt;h2 id=&#34;unsolicited-trivia-about-me--&#34;&gt;Unsolicited trivia about me -&lt;/h2&gt;&#xA;&lt;p&gt;I like reading technical blogs, discovering new &amp;amp; interesting open-source projects, occassionally listening to podcasts and quizzing. In that vein,&#xA;this website is an attempt to write about things I find interesting (not necessarily technical).&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;hi-there-wave&#34;&gt;Hi there &amp;#x1f44b;&lt;/h1&gt;&#xA;&lt;img src=&#34;https://v-shenoy.in/dp.jpg&#34; alt=&#34;selfie&#34; width=&#34;350px&#34;/&gt;&#xA;&lt;p&gt;I am currently working as a &lt;code&gt;Software Engineer III (L4)&lt;/code&gt; at &lt;code&gt;Google&lt;/code&gt; as part of &lt;code&gt;Feedback &amp;amp; Happiness Tracking Surveys (HaTS)&lt;/code&gt; team. These services are leveraged by partner teams across all Google products to collect user feedback and conduct product surveys.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I worked at &lt;code&gt;Microsoft&lt;/code&gt; for almost 4 years in the &lt;code&gt;Azure Functions&lt;/code&gt; and the &lt;code&gt;Azure Container Apps&lt;/code&gt; teams.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
