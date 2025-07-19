@@ -6,28 +6,26 @@ draft: false
 
 # Hi there :wave:
 
-I am Vighnesh Shenoy, and I am a software developer from India. 
+<img src="/dp.jpg" alt="selfie" width="350px"/>
 
-<img src="/about.jpg" alt="desk selfie" width="350px"/>
+I am currently working as a `Software Engineer III (L4)` at `Google` as part of `Feedback & Happiness Tracking Surveys (HaTS)` team. These services are leveraged by partner teams across all Google products to collect user feedback and conduct product surveys.
 
-I graduated with a double major in Computer Science & Mathematics from BITS Pilani, Hyderabad Campus in July, 2021. And I am currently
-working as a software engineer at Microsoft.
+Previously, I worked at `Microsoft` for almost 4 years in the `Azure Functions` and the `Azure Container Apps` teams.
+
+For my education, I graduated with a double major in `Computer Science & Mathematics` from `BITS Pilani, Hyderabad Campus` in July, 2021.
+
+You can find my CV [here](../cv.pdf).
+
+## About this website
+
+I like reading technical blogs, discovering new & interesting open-source projects, as well as quizzing & learning about things. In that vein, this website is an attempt to write and share about things that I find interesting (not only technical). Hope you enjoy reading!
 
 ## Unsolicited trivia about me -
 
-I like reading technical blogs, discovering new & interesting open-source projects, occassionally listening to podcasts and quizzing. In that vein, 
-this website is an attempt to write about things I find interesting (not necessarily technical).
-
-I was an avid reader before college, but lost the habit and currently trying to pick it back up. Additionally, I am a big fan of reading manga and watching anime. My favorite manga of all time is `One Piece`. Feel free to give me book & manga recommendations.
-
-I also like watching tv shows and my favorite tv shows of all time are `The Wire`, and `The Sopranos`.
-
-I am a bit unhealthilty obsessed with chess, although I am not all that good at it. Feel free to send me a challenge. I also like to keep up with a variety
-of sports (albeit very casually) such as football, F1, cricket, tennis, and am a nerd for stats.
-
-I am obsessed with cats and live with an adorable domestic short-hair named Neo (Instagram - [@the.catrix_](https://www.instagram.com/the.catrix_/)).
-
-Feel free to reach out to me if you have something interesting to talk about. My contact information is linked below.
+- I love playing and following chess, so feel free to challenge me to a game.
+- I like reading manga and my favorite manga is `One Piece`.
+- I have two adorable cats named `Neo` & `Picasso (aka Piku)`. You can follow their shenanigans on Instagram ([@the.meowtrix_](https://www.instagram.com/the.meowtrix_/)).
+- Actualmente estoy aprendiendo Español.
 
 ## Find me elsewhere -
 
