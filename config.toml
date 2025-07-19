@@ -10,63 +10,63 @@ enableGitInfo = true
 cleanDestinationDir = true
 
 [menu]
-	[[menu.main]]
-	identifier = "about"
-	name = "about"
-	url = "/about/"
-	weight = 1
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 1
 
-	[[menu.main]]
-	identifier = "posts"
-	name = "posts"
-	url = "/posts/"
-	weight = 2
+[[menu.main]]
+identifier = "posts"
+name = "posts"
+url = "/posts/"
+weight = 2
 
-	[[menu.main]]
-	identifier = "tags"
-	name = "tags"
-	url = "/tags/"
-	weight = 3
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 3
 
-	[[menu.main]]
-	identifier = "cv"
-	name = "cv"
-	url = "/cv.pdf"
-	weight = 4
+[[menu.main]]
+identifier = "cv"
+name = "cv"
+url = "/cv.pdf"
+weight = 4
 
 
 ## Markup Configuration
 [markup]
-	[markup.highlight]
-		style = "dracula"
+[markup.highlight]
+style = "dracula"
 
-	[markup.goldmark.renderer]
-		unsafe= true
+[markup.goldmark.renderer]
+unsafe = true
 
 # Archie Theme Config
 [params]
-	mode = "dark"
-	useCDN = true
-	subtitle = "Welcome to my personal corner of the internet!"
-	favicon = "https://github.com/v-shenoy.png"
-	customcss = ["css/custom.css"]
+mode = "toggle"
+useCDN = false
+subtitle = "Welcome to my personal corner of the internet!"
+favicon = "https://github.com/v-shenoy.png"
+customcss = ["css/custom.css"]
 
-	[[params.social]]
-	name = "RSS"
-	icon = "rss"
-	url = "/index.xml"
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
 
-	[[params.social]]
-	name = "E-mail"
-	icon = "mail"
-	url = "mailto:vighneshq@gmail.com"
+[[params.social]]
+name = "E-mail"
+icon = "mail"
+url = "mailto:vighneshq@gmail.com"
 
-	[[params.social]]
-	name = "GitHub"
-	icon = "github"
-	url = "https://github.com/v-shenoy"
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/v-shenoy"
 
-	[[params.social]]
-	name = "LinkedIn"
-	icon = "linkedin"
-	url = "https://www.linkedin.com/in/v-shenoy"
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/v-shenoy"
