@@ -1,17 +1,17 @@
 :root { 
-    /* --maincolor: #bd93f9 !important; */
     --bordercl: #bd93f9 !important;
-    /* --callouctcolor: dodgerblue !important; */
-    /* --hovercolor: #bd93f9 !important; */
-    /* --darkMaincolor: #bd93f9 !important; */
+}
+
+hr {
+  border-top: 3px dotted #bd93f9 !important;
 }
 
 blockquote {
-    border-left: 3px solid white;
+    border-left: 3px solid rgb(45, 145, 75);
 }
 
 ::selection {
-    background-color: rgba(203, 141, 231, 0.25);
+    background-color: rgba(255, 0, 0, 0.5);
     color: rgb(255, 255, 255);
 }
 

@@ -1,49 +1,69 @@
 ---
 title: "My Spanish Journey - Part 1"
-date: 2025-07-19T17:14:01+05:30
+date: 2025-08-08T17:14:01+05:30
 tags: [spanish, languages]
 giscus: true
 draft: false
 ---
-For a while now, I have been wanting to learn a foreign language. However, I never actually dedicated any time to it. So finally, this year, I decided take it seriously and began learning Spanish.
+For a while now, I have wanted to learn a foreign language. However, I never actually dedicated any time to it. Finally this year, I decided to take it seriously and began learning Spanish.
 
-Why choose Spanish of all the languages in the world, you ask? Partly because it is English-adjacent, making it much easier to learn compared to a language such as Japanese or Mandarin, which have their own writing systems. And partly because it is also one of the most spoken languages in the world.
+Why choose of Spanish of all the languages in the world, you ask? Partly because it is English-adjacent, making it much easier to learn compared to a language such as Japanese, Korean, or Mandarin which have their own writing systems. And partly because it is also one of the most spoken languages in the world.
 
-I am writing this post about 4 months into my learning journey. My plan is to document it so that I can share my experience, my approach, and resources, and also to hold myself accountable.
-
-## Apps
-These are the apps that I currently use, which provide a structured/guided approach to learning. However, these are not my primary resources, being superseded by `Comprehensible Input (CI)`, which I will talk about in detail in the following section.
-
-### Duolingo
-Like most people learning a new language these days, I began my journey with [Duolingo](https://www.duolingo.com/). In my opinion, the green-owl definitely does a good job at getting you started, providing a quick and easy introduction to the language. Spanish is also by far Duolingo's most detailed course. However, after using it for a while, you realize that you can never become fluent in a language with it as your primary resource. It is a bit too gamified and simplistic for that. These days, I mostly use Dulingo as a way to practice and maintain my streak (_the marketing gimmick does work_).
-
-### Busuu
-[Busuu](https://www.busuu.com/) is another app I came across recently. It has a lot of similarities with Duolingo in the way it teaches, but is a lot less gamified, has a cleaner interface, and slightly better explanations, in my opinion. I use this similarly to Duolingo to complement `CI` and understand grammar. I'm not sure how long I'll use either this or Duolingo, but I think they're helpful for now.
-
-### Clozemaster
-[Clozemaster](https://www.clozemaster.com/) is another app I discovered recently. It's primary approach to teaching is by having you answer `fill-in-the-blank` style sentences using spaced-repetition. What I like about this is that, it allows me to learn vocabulary contextually, instead of blindly memorizing words. You could technically use [Anki](https://apps.ankiweb.net/) and create your own cloze-style cards, but it's a lot more tedious. However, if you're someone that can put in the effort, I think Anki comes out on top due to the customizability and features it provides.
-
----
+I am writing this post about 5 months into my learning journey. My plan is to document it to share my experience, my approach, and resources, as well as to hold myself accountable.
 
 ## Comprehensible Input (CI)
-I think I first came across [`CI`](https://en.wikipedia.org/wiki/Input_hypothesis/) in one of my YouTube recommendations, which led me down the rabbit-hole of Google searches and reddit posts. `CI` essentially refers to a method of learning languages via input that you can understand, even if you don't grasph 100% of the words or grammatical structures within it. In many ways it is akin to how a child learns a language growing up — by continuously being exposed to and immersed in it.
+I  think I first came across [`CI`](https://en.wikipedia.org/wiki/Input_hypothesis/) in one of my YouTube recommendations, which led me down the rabbit-hole of Google searches and reddit posts. It was developed by linguist Stephen Krashen and hypothesizes that languages are acquired via input. In particular, input that is comprehensible; it refers to input that you can understand even if you don't grasp 100% of the words or grammatical structures used. In many ways, it is akin to how a child learns a language growin up — by continuosly being exposed to and immersed in it.
 
-While there are purists out there who think that `CI` should be the only way to learn, I disagree. On the other hand, I find that `CI` works extremely well when complemented with some structured resources.
+For the past couple of months, this has been my primary method of learning. Although, there are purists out there who think that `CI` should be used on its own, I disagree. I find that `CI` works extremely well when supplemented with some structured resources.
 
 ### Dreaming Spanish (DS)
-[Dreaming Spanish](https://www.dreamingspanish.com/) is a fantastic and easily the most comprehensive resource for Spanish `CI` available on the internet. It features several teachers who create videos about interesting topics across fluency levels — from `superbeginner` to `intermediate` to `advanced`.
+[Dreaming Spanish](https://www.dreamingspanish.com/) is a fantastic and easily the most comprehensive resource for Spanish `CI` available on the internet. It features several teachers who create videos about interesting topics across fluency levels — from superbeginner to intermediate to advanced.
 
-The initial videos require a bit of effort to sit through, which is not a fault of the platform. There's only so much exciting content you can create with basic vocabulary. But as you progress, you can definitely feel your comprehension improve. Plus, once you reach an intermediate level, you can substitute this with native content. The website also supports logging hours of content that you consume externally.
+The initial videos require a bit of discipline to sit through, but that is not really a fault of the platform. There is only so much exciting content you can create with extremely basic vocabulary. The videos get more interesting over the levels, and you can definitely feel your comprehension improve as you progress. Plus, once you reach an intermediate level, uou can substitute this with native content. The website supports logging hours of content that you consume externally.
 
-I am currently almost 50 hours in my progress, or about to reach `Level 2` as `DS` calls it.
+I am currently about 50 hours in my progress or `Level 2` as `DS` calls it.
+
+### Lingq
+[Lingq](https://www.lingq.com/) is platform to help you consume and immerse yourself in your target language. It works by maintaning a dictionary of words that you have come across so far. Initially words that you have never seen are considered unknown. You can then mark a word as known if you are familiar with it, or you can look up the definition for it and mark it as learning. This is known as creating `lingqs`. 
+
+Content can be in the form of text articles, YouTube videos (with transcripts), or from Netflix. The platform also has its own media library, and also allows you to import your own content in the form of articles, audio files, e-books, etc.
+
+
+The website can feel a bit dated and clunky at times, but I have pleasantly enjoyed my experience using it to read in Spanish. There are a couple of similar alternatives that I might try out in the future:
+- [Readlang](https://readlang.com/)
+- [Lingua Verbum](https://www.linguaverbum.com/)
+
+
+### Language Reactor (LR)
+[Language Reactor](https://www.languagereactor.com/) can be mostly succintly described as `Lingq` for the web. It is a Chrome extension aimed to help you further immerse yourself in your target language. 
+
+You can conveniently import web pages in your target language and look up / mark words similar to `Lingq`. You can also look up words in native subtitles directly on YouTube or Netflix. It even provides its own subtitles for select languages, and titles on Netflix.
 
 ### Podcasts
-There are many beginner-Spanish podcasts that can help you learn. These complement `DS`, because you can listen to them when you are unable to watch the videos such as when working out, or commuting, performing some chores. I am currently only listening to one podcast, called ¡Cuéntame!, but I plan to add more as I progress.
+There are many beginner Spanish podcasts out there to help you learn. These make a great complement to `DS`, because you can listen to them when you are unable to watch the videos such as when working out, or commuting or performing chores. Currently, I am only listening to one podcast, called ¡Cuéntame¡, but I plan to add more as I progress.
 
 You can find a more detailed list in this [sheet](https://docs.google.com/spreadsheets/d/1lBmLxvWJpucXhRPayfXD7CVqpMoa2tyEbZi1rFAwsFs/edit?gid=0#gid=0).
 
+## Guided Apps
+
+### Busuu
+While I first began my learning journey with [Duolingo](https://www.duolingo.com/), I have since moved on to [Busuu](https://www.busuu.com/). Busuu, like Duolingo, provides you a gamified experience to learning languages. But in my opinion, it has a cleaner interface and slightly better explanations.
+
+I mainly use this as a way to improve my grammar, and get a quick lesson in during work-breaks or commuting.
+
+## Spaced-Repetion Software (SRS)
+
+I did try various softwares which allow you to learn vocabulary primarily via spaced-repetition:
+- [Anki](https://apps.ankiweb.net/)
+- [Memrise](https://www.memrise.com/)
+- [Clozemaster](https://www.clozemaster.com/)
+
+Although, I am not sure if this is completely my thing. I found them a bit tedious and boring at times. In the future, I would like to revisit and give `SRS` another try. In particular because both `Lingq` and `LR` have options to export your vocabulary to `Anki`.
+
+## Misc.
+
 ### Language Transfer (LT)
-While [Language Transfer](https://www.languagetransfer.org/) is not actually `CI` given the amount of English used, I think it is fantastic complementary resource to actual `CI`. I am not even sure what the best way to describe `LT` is. It helps you think about the target language, form connections with English and overall improves your understanding. It definitely helped me understand concepts such as verb-conjugations, object pronouns, etc. much better than having to blindly memorize them.
+I think that [Language Transfer](https://www.languagetransfer.org/) is a fantastic resource to complement your preferred method of language learning. `LT` is a series of byte-sized audio episodes explaining different ideas in your target language. It helps you understand the nuances of your target language, form connections with English and form a logical structure of the language in your head. It definitely helped me understand concepts such as verb-conjugations, object pronouns, etc. much better than having to blindly memorize them.
 
 ---
 
